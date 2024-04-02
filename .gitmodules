@@ -1,0 +1,12 @@
+[submodule "rynkowsg/asdf-orb"]
+	path = orbs/asdf-orb
+	url = git@github.com:rynkowsg/asdf-orb.git
+[submodule "rynkowsg/rynkowsg"]
+	path = orbs/rynkowsg
+	url = git@github.com:rynkowsg/rynkowsg-orb.git
+[submodule "rynkowsg/asdf"]
+	path = orbs/asdf
+	url = git@github.com:rynkowsg/asdf-orb.git
+[submodule "rynkowsg/checkout"]
+	path = orbs/checkout
+	url = git@github.com:rynkowsg/checkout-orb.git
