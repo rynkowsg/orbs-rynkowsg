@@ -2,7 +2,14 @@
   <dictionary name="user">
     <words>
       <w>asdf</w>
+      <w>babashka</w>
+      <w>gitco</w>
+      <w>kondo</w>
       <w>rynkowsg</w>
+      <w>rynkowski</w>
+      <w>shellpack</w>
+      <w>sosh</w>
+      <w>xlarge</w>
     </words>
   </dictionary>
 </component>
