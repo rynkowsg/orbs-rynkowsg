@@ -10,3 +10,6 @@
 [submodule "rynkowsg/checkout"]
 	path = orbs/checkout
 	url = git@github.com:rynkowsg/checkout-orb.git
+[submodule "rynkowsg/gpg-orb"]
+	path = orbs/gpg
+	url = git@github.com:rynkowsg/gpg-orb.git
