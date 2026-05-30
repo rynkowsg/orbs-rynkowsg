@@ -1,6 +1,9 @@
 [submodule "rynkowsg/asdf-orb"]
 	path = orbs/asdf-orb
 	url = git@github.com:rynkowsg/asdf-orb.git
+[submodule "rynkowsg/aws-orb"]
+	path = orbs/aws
+	url = git@github.com:rynkowsg/aws-orb.git
 [submodule "rynkowsg/rynkowsg"]
 	path = orbs/rynkowsg
 	url = git@github.com:rynkowsg/rynkowsg-orb.git
