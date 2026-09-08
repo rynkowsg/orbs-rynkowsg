@@ -10,6 +10,9 @@
 [submodule "rynkowsg/gpg-orb"]
 	path = orbs/gpg
 	url = git@github.com:rynkowsg/gpg-orb.git
+[submodule "rynkowsg/mise-orb"]
+	path = orbs/mise
+	url = git@github.com:rynkowsg/mise-orb.git
 [submodule "rynkowsg/rynkowsg-orb"]
 	path = orbs/rynkowsg
 	url = git@github.com:rynkowsg/rynkowsg-orb.git
