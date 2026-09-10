@@ -5,3 +5,11 @@
 !/.idea/repl-commands.xml
 !/.idea/runConfigurations/
 *.iml
+
+# MacOS
+.DS_Store
+
+# Env
+.env*
+!.envrc
+!.envrc.local.example
